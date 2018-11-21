@@ -40,22 +40,7 @@ document.body.appendChild(div);
 
 // img tag
 var pic1 = document.createElement("img");
-pic1.src = "ice-cream.jpg";
-document.body.appendChild(pic1);
-pic1.style.width = "24%";
-
-var pic2 = document.createElement("img");
-pic2.src = "cookies.jpg";
-document.body.appendChild(pic2);
-pic2.style.width = "24%";
-
-var pic3 = document.createElement("img");
-pic3.src = "mmminis.jpg";
-document.body.appendChild(pic3);
-pic3.style.width = "24%";
-
-var pic4 = document.createElement("img");
-pic4.src = "pb.jpg";
+pic1.src = "ice-cream.JPG";
 document.body.appendChild(pic4);
 pic4.style.width = "24%";
 
